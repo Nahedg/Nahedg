@@ -75,27 +75,6 @@ I like when software is straightforward and does what it's supposed to do.
 
 ---
 
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahedg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahedg&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahedg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nahedg/Nahedg/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="left">
