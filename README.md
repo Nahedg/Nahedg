@@ -60,7 +60,7 @@ What drives me is the intersection of solid engineering and applied intelligence
 |---|---|---|
 | [SpectraGuard](https://github.com/SpectraGuard) | AR app for industrial monitoring & maintenance | Swift · Unity · Vuforia · iOS |
 | [HFU-BeatBot](https://github.com/HFU-BeatBot) | Music genre classification on Android with ML backend | Python · TensorFlow · REST API · Android |
-| [Rag-Doc-Chat](https://github.com/nahed/Rag-Doc-Chat) | Local RAG chatbot for PDF documents *(in development)* | Python · LangChain · Ollama · ChromaDB · FastAPI |
+| [Rag-Doc-Chat](https://github.com/Nahedg/Rag-Doc-Chat) | Local RAG chatbot for PDF documents *(in development)* | Python · LangChain · Ollama · ChromaDB · FastAPI |
 
 ---
 
